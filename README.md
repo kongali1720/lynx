@@ -4,6 +4,12 @@
 
 ---
 
+<p align="center">
+  <img src=https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjgyYm5zbGNrN2NnZ2YycmNxMzFpcDZsYXNndXk5OTkwbzRyMjFnaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GOwylSCEZnINmgddJu/giphy.gif width="300"/>
+</p>
+
+---
+
 ## ✨ Fitur Unggulan
 
 🔍 **Pencarian Akun Media Sosial**  
